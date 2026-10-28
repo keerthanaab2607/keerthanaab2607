@@ -21,6 +21,5 @@ Generative AI, LLM applications, AI agents, and practical applications of intell
 
 ### Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/keerthanaa-bollipalli/
-- **Email:** keerthanaabnaidu@gmail.com
 
 I'm always eager to learn, experiment with new technologies, and build impactful projects in AI and software development.
