@@ -1,37 +1,18 @@
-<p align="center"> <img src="banner.svg" width="100%" alt="Keerthanaa Bollipalli, Data Science and AI" /> </p> <p align="center"> Building practical AI solutions and turning messy data into useful decisions.<br /> <b>Seeking an AI/ML internship in Paris · January 2027</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/keerthanaa-bollipalli/"><b>LinkedIn</b></a> &nbsp;·&nbsp; <a href="https://keerthanaab2607.github.io/Portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp; <a href="mailto:keerthanaabnaidu@gmail.com"><b>Email</b></a> </p> <p align="center"> <img src="stats.svg" alt="40,000+ records analyzed, 1 published paper, 2 internships" /> </p>
-Hi, I'm Keerthanaa 👋
-
-I'm an MSc student in Data Science and Artificial Intelligence at DSTI Paris. I enjoy building practical AI solutions and exploring how machine learning and Generative AI can solve real-world problems.
-
-Technical Interests
-Programming: Python, SQL, Java, JavaScript
-Machine Learning: Scikit-learn, classification, feature engineering, model evaluation
-NLP & Generative AI: NLP, LLMs, AI agents, prompt engineering, tool calling, AI guardrails
-Data Science: Pandas, NumPy, data preprocessing, exploratory data analysis
-Software Development: Django, Django REST Framework, Streamlit, Git, GitHub
-Featured Projects
-Cyber Attack Detection: Machine learning pipeline that classifies DDoS, malware, and intrusion attacks across 40,000+ network-traffic records, comparing Random Forest, Gradient Boosting, and XGBoost with cross-validation and hyperparameter tuning.
-Fake Account Detection: Machine learning and NLP application that combines behavioural features and TF-IDF with SVM and Neural Networks, served through a Django REST Framework API.
-Research
-
-Fake Account Detection in Social Media Using Machine Learning and Django Framework
-First author · Published in IJIRT · May 2025
-
-A classification system that flags fake social-media accounts using behavioural features and NLP, served through a Django REST API.
-
-Read the paper · PDF
-
-Currently Exploring
-
-Generative AI, LLM applications, AI agents, and practical applications of intelligent systems.
-
-Stack
-<p align="center"> <img src="stack.svg" alt="Stack: Python, Java, JavaScript, Django, HTML, CSS, Git, GitHub, VS Code" /> </p>
-Connect
-LinkedIn: keerthanaa-bollipalli
-Email: keerthanaabnaidu@gmail.com
-Portfolio: keerthanaab2607.github.io/Portfolio
-
-I'm always eager to learn, experiment with new technologies, and build impactful projects in AI and software development.
-
-<p align="center"> <b>Working on something in AI or ML? I'd love to hear about it.</b><br /> <a href="https://www.linkedin.com/in/keerthanaa-bollipalli/">Say hi on LinkedIn</a> </p> <p align="center"> <img src="footer.svg" width="100%" alt="data in, decisions out" /> </p>
+<p align="center"> <a href="https://github.com/keerthanaab2607"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Keerthanaa%20Bollipalli&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%26%20AI%20%C2%B7%20ML%20%2B%20NLP%20%2B%20LLMs&descSize=24&descAlignY=64" width="100%" alt="Keerthanaa Bollipalli, Data Science and AI" /></a> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+practical+AI+solutions.;%3E+turning+messy+data+into+decisions.;%3E+seeking+an+AI%2FML+internship%2C+Jan+2027." width="100%" alt="building practical AI solutions, turning messy data into decisions" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/keerthanaa-bollipalli/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://keerthanaab2607.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a> <a href="mailto:keerthanaabnaidu@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a> </p> <p align="center"> <img src="https://img.shields.io/badge/40K%2B-records_analyzed-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="40,000+ records analyzed" /> <img src="https://img.shields.io/badge/1-published_paper-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="1 published paper" /> <img src="https://img.shields.io/badge/2-internships-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="2 internships" /> </p>
+🧬 about
+python
+me = {
+    "does":     "builds practical ML, NLP and GenAI solutions",
+    "based":    "Paris, France",
+    "was":      "AIML Intern @ Rooman Technologies, Bangalore",
+    "degree":   "MSc Data Science and AI, Data Science Tech Institute (DSTI)",
+    "learning": "LLM applications, AI agents, tool calling, AI guardrails",
+    "speaks":   ["English", "French (B1)"],
+}
+<details> <summary><b>🌱 how I got here. click for the short version</b></summary> <br /> <table> <tr><td><b>2019 to 2021</b></td><td>Senior secondary school, Sri Chaitanya PU College, Bangalore</td></tr> <tr><td><b>2021 to 2025</b></td><td>B.E. in Computer Science, Sir M. Visvesvaraya Institute of Technology, Bangalore</td></tr> <tr><td><b>2023</b></td><td>Front-end web development intern at Varcons Technologies</td></tr> <tr><td><b>2024 to 2025</b></td><td>AIML intern at Rooman Technologies</td></tr> <tr><td><b>May 2025</b></td><td>Published my first research paper in IJIRT</td></tr> <tr><td><b>2025 to 2027</b></td><td>MSc in Data Science and AI, Data Science Tech Institute, Paris</td></tr> </table> </details>
+💼 experience
+<table> <tr> <td width="36%" valign="top"><b>AIML Intern</b><br /><sub>Rooman Technologies, Bangalore · Sep 2024 to Jan 2025</sub></td> <td valign="top"> <ul> <li>Pulled and analysed data from several sources with SQL and Python, and built structured pipelines for preprocessing and model training.</li> <li>Used feature engineering to improve performance, then built and validated classification models in Scikit-learn.</li> <li>Documented every transformation so results could be reproduced.</li> </ul> </td> </tr> <tr> <td width="36%" valign="top"><b>Front-end Web Development Intern</b><br /><sub>Varcons Technologies, Bangalore · Oct to Dec 2023</sub></td> <td valign="top"> <ul> <li>Built an interactive resume template in HTML, CSS and JavaScript with a clear, intuitive layout.</li> <li>Made it responsive across devices and improved load time by restructuring the code.</li> </ul> </td> </tr> </table>
+🚀 projects
+<table> <tr> <td width="50%" valign="top"> <h3>🛡️ Cyber Attack Detection</h3> <sub><b>machine learning · 40,000+ records</b></sub> <p>End-to-end pipeline that classifies DDoS, malware and intrusion traffic, comparing Random Forest, Gradient Boosting and XGBoost with cross-validation and GridSearchCV.</p> <p><code>Python</code> <code>Scikit-learn</code> <code>XGBoost</code> <code>Pandas</code></p> </td> <td width="50%" valign="top"> <h3>🕵️ <a href="https://ijirt.org/article?manuscript=178231">Fake Account Detection</a></h3> <sub><b>ML + NLP · published research</b></sub> <p>Flags fake social-media accounts using behavioural features and TF-IDF with SVM and neural networks, served through a Django REST API.</p> <p><code>Python</code> <code>SVM</code> <code>NLP</code> <code>Django</code></p> <a href="https://ijirt.org/article?manuscript=178231"><img src="https://img.shields.io/badge/read_the_paper-A21517?style=for-the-badge" alt="Read the paper" /></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🌐 <a href="https://keerthanaab2607.github.io/Portfolio/">Portfolio website</a></h3> <sub><b>live site</b></sub> <p>My personal site with projects, experience and certificates, built to work in light and dark mode.</p> <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p> <a href="https://keerthanaab2607.github.io/Portfolio/"><img src="https://img.shields.io/badge/visit_the_site-A21517?style=for-the-badge" alt="Visit the site" /></a> </td> <td width="50%" valign="top"> <h3>📂 <a href="https://github.com/keerthanaab2607?tab=repositories">More work</a></h3> <sub><b>everything else</b></sub> <p>More projects and experiments live in my repositories.</p> </td> </tr> </table>
+🧰 stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,js,django,html,css,git,github,vscode&perline=9&theme=dark" alt="Tech stack" /> </p> <p align="center"><b>Working on something in AI or ML? I'd love to hear about it.</b></p> <p align="center"> <a href="mailto:keerthanaabnaidu@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a> </p> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=data%20in%2C%20decisions%20out&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="data in, decisions out" /></p>
